@@ -1,0 +1,5 @@
+CRUD JPA
+getByID -> find(_,_)
+save -> persist
+update -> merg
+delate -> remove
